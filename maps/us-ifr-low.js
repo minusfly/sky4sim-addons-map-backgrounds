@@ -1,0 +1,1 @@
+new addonMapBackground("US IFR Low", "iflightplanner.com", "https://maps.iflightplanner.com/Maps/Tiles/IFRLow/Z{z}/{y}/{x}.png", 1, 11);

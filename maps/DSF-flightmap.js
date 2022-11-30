@@ -1,0 +1,1 @@
+new addonMapBackground("DFS flight map", "secais.dfs.de","https://secais.dfs.de/static-maps/icao500/tiles/{z}/{x}/{y}.png", 1, 12);

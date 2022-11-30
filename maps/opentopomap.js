@@ -1,0 +1,1 @@
+new addonMapBackground("opentopomap", "opentopomap.org", "https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png");

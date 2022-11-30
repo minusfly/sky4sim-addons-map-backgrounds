@@ -1,0 +1,1 @@
+new addonMapBackground("US Sectional", "iflightplanner.com", "https://maps.iflightplanner.com/Maps/Tiles/Sectional/Z{z}/{y}/{x}.png", 1, 11);

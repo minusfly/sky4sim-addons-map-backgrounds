@@ -1,0 +1,1 @@
+new addonMapBackground("France OACI", "Geoportal France OACI","https://wxs.ign.fr/an7nvfzojv5wa96dsga5nk8w/geoportail/wmts?service=WMTS&request=GetTile&version=1.0.0&tilematrixset=PM&tilematrix={z}&tilecol={x}&tilerow={y}&layer=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN-OACI&format=image/jpeg&style=normal", 6, 11);
